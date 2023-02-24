@@ -271,7 +271,14 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              MINT OPEN
+              {truncate(
+                new Date(timeRemaining).toLocaleString("en-GB", {
+                  hour: "numeric",
+                  minute: "numeric",
+                  second: "numeric",
+                }),
+                10
+              )}
             </s.TextDescription>
 
 
