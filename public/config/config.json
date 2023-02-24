@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA2c431e4413E6506916518D235C48fa1BADF7D68",
+  "SCAN_LINK": "https://etherscan.io/address/0xA2c431e4413E6506916518D235C48fa1BADF7D68",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Mors Tempus",
+  "SYMBOL": "DEATH",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mors-tempus",
+  "SHOW_BACKGROUND": true
+}
