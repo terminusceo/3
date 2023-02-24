@@ -262,6 +262,18 @@ function App() {
             <s.SpacerLarge />
             <s.SpacerLarge />
             <s.SpacerLarge />
+            
+            
+            <s.TextDescription
+              style={{
+                textAlign: "center",
+                fontSize: 40,
+                fontWeight: "bold",
+                color: "var(--primary)",
+              }}
+            >
+              PUBLIC MINT OPENS IN
+            </s.TextDescription>
 
             <s.TextDescription
               style={{
